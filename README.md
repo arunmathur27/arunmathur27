@@ -1,11 +1,8 @@
-### Hi there 👋
+### Data Science Portfolio
 
-<!--
-**arunmathur27/arunmathur27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Voice Assistant Model.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
