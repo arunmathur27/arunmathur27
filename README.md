@@ -1,8 +1,13 @@
 **Hi there** 👋🏻
 
-I am currently working as a **Senior Software Engineer** at **Nielseniq** I am with an extensive experience of working with different technologies including Strong Python System Programming, Data Science, Machine Learning, Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
+An experienced, highly motivated, result oriented Python-SQL Developer offering 6 years of extensive experience and exceptional analytical and critical thinking skills. Delivers a proactive approach, great work ethic, and the ability to function well in fast-paced/deadline-driven team environments.
+
+I am an organized individual, looking to pursue my career as a **Data Scientist / Data Analysist / Python-SQL Developer** in an  organization where I can be an astute learner and utilize my skills and knowledge for the betterment and growth of the organization and reward myself with job satisfaction.
+
 
 **Things I'm good at** 🔥
+
+I am with an extensive experience of working with different technologies including Strong **Python System Programming, Data Science, Machine Learning, Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics**
 
 **Domain:** Voice Assistant, Voice Controlled Search, Voice Command, Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Mining, Data Visualization, and Data Warehousing.
 
