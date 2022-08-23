@@ -11,9 +11,15 @@ I am with an extensive experience of working with different technologies includi
 
 **Domain:** Voice Assistant, Voice Controlled Search, Voice Command, Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Mining, Data Visualization, and Data Warehousing.
 
+**Time Series Analysis & Forecasting - Python :** Autoregressive (AR), Autoregressive Integrated Moving Average (ARIMA), Seasonal Autoregressive Integrated Moving Average (SARIMA), Exponential Smoothing (ES), Prophet (Facebook), XGBoost, LSTM (Deep Learning), DeepAR, Temporal Fusion Transformer (Google). 
+
+**Specialization in Time Series Analysis & Forecasting - Power BI:** Power View Provides Two type of Forecasting Methods i) ETS (AAA) for dataset having seasonality & ETS (AAN) for dataset not having Seasonality. Power BI use Exponential Smoothing methods for building Trend line and Forecasting. I am having specialization in creating univariate and Multivariate Time Series Analysis in Power BI itself.
+
+**Power BI:** Data visualization using charts and preparing Dashboards, Data Gateway, Data pipeline etc.
+
 **Python:** NumPy, Pandas, Seaborn, Matplotlib, Scikit Learn, SciPy, RESTful APIs, EDA / Data Analysis, PyTorch, Keras, NLTK, Sentry.
 
-**SQL & Office:** SQL Server 2008/2012, SQL Scripting for SPs, Query Optimizations, PostgreSQL, Excel, Word, Power Point
+**SQL & Office:** SQL Server 2008/2012, SQL Scripting for SPs, Query Optimizations, PostgreSQL, Excel, Word, Power Point.
 
 **Tableau:** Data visualization using charts and preparing Dashboards
 
