@@ -33,11 +33,11 @@ I am with an extensive experience of working with different technologies includi
 
 **How to reach me** 📱
 
-https://wa.me/919558836479
+https://wa.me/8347730866
 
 https://join.skype.com/invite/xWkTi4zaFyqb
 
-http://www.linkedin.com/in/mahur-arunmathur/
+http://www.linkedin.com/in/mahur-arunmathur
 
 https://medium.com/@mathur.arunmathur_60211
          
